@@ -12,7 +12,9 @@ This repository is all about some problems that I personally practiced while stu
 
 
 <p align="center">
-```Show some ❤️ by ⭐ it.```
+  
+Show some ❤️ by ⭐ it.
+  
 </p>
 
 ## References
