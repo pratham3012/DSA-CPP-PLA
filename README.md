@@ -10,8 +10,10 @@ This repository is all about some problems that I personally practiced while stu
 - Rest are coming soon.....Stay Connected!
 - 
 
-```Show some ❤️ by ⭐ it.```
 
+<p align="center">
+```Show some ❤️ by ⭐ it.```
+</p>
 
 ## References
 1. [Data Structures and Algorithms Made Easy | Narasimha Karumanchi | Carrer Monk](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X/?_encoding=UTF8&camp=3626&creative=24790&linkCode=ur2&qid=1370883048&s=books&sr=1-1&tag=careepubli-21)
