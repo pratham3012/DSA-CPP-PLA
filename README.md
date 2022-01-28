@@ -10,7 +10,7 @@ This repository is all about some problems that I personally practiced while stu
 - Rest are coming soon.....Stay Connected!
 - 
 
-```Show some ❤️ by :star: it.```
+```Show some ❤️ by ⭐ it.```
 
 
 ## References
