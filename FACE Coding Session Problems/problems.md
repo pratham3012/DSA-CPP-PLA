@@ -116,7 +116,8 @@ Array after insertion is
 ```
 
 - Maximum Element In Each Row
-```There are some students in the class. The class Adviser needs a recruitment's process for above 60% students. In each and every row there was a student above 60% . Help your adviser to find the students in each row.
+```
+There are some students in the class. The class Adviser needs a recruitment's process for above 60% students. In each and every row there was a student above 60% . Help your adviser to find the students in each row.
 
 
 Input Format:
