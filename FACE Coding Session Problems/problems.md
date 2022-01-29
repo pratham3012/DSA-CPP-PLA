@@ -178,7 +178,8 @@ yes
 
 - The Anagram String_Java
 
-```Write a Program to determine whether two strings are the anagram
+```
+Write a Program to determine whether two strings are the anagram
 Sample Input :
 
 Apple
