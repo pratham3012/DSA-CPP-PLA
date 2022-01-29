@@ -114,3 +114,61 @@ Array after insertion is
 
 5
 ```
+
+- Maximum Element In Each Row
+```There are some students in the class. The class Adviser needs a recruitment's process for above 60% students. In each and every row there was a student above 60% . Help your adviser to find the students in each row.
+
+
+Input Format:
+
+The input consists of (m*n+2) integers. The first integer corresponds to m, the number of rows in the matrix and the second integer corresponds to n, the number of columns in the matrix. The remaining integers correspond to the elements in
+The elements are read in row wise order, first row first, then second row and so on. Assume that the maximum value of m and n is 10.
+Sample Input:
+
+ 
+
+3
+
+2
+
+4 5
+
+6 9
+
+0 3
+
+ Sample Output:
+
+5
+
+9
+
+3```
+
+- Upper Triangular Matrix
+```
+An upper triangular matrix is a square matrix in which all the elements below the diagonal are zero. That is, all the non-zero elements are in the upper triangle: Write a JAVA program to find whether a given matrix is an upper triangular matrix or not.
+Input Format:
+
+The input consists of (n*n+1) integers. The first integer corresponds to the number of rows/columns in the matrix. The remaining integers correspond to the elements in the matrix. The elements are read in rowwise order, first row first, then second row and so on. Assume that the maximum value of m and n is 5.
+
+ 
+
+Output Format:
+
+Print "yes" if it is an upper triangular matrix . Print "no" if it is not an upper triangular matrix.
+
+ 
+Sample Input 1:
+
+2
+
+1 2
+
+0 3
+
+ 
+
+Sample Output 1:
+
+yes```
