@@ -143,9 +143,11 @@ Sample Input:
 
 9
 
-3```
+3
+```
 
 - Upper Triangular Matrix
+
 ```
 An upper triangular matrix is a square matrix in which all the elements below the diagonal are zero. That is, all the non-zero elements are in the upper triangle: Write a JAVA program to find whether a given matrix is an upper triangular matrix or not.
 Input Format:
@@ -171,4 +173,5 @@ Sample Input 1:
 
 Sample Output 1:
 
-yes```
+yes
+```
